@@ -1,0 +1,6 @@
+print("Sequence of numbers from 12 to 26:")
+print(seq(20,50))
+print("The mean of two numbers from 2 to 22:")
+print(mean(20:60))
+print("sum of two numbers from 1 to 25")
+print(sum(51:91))

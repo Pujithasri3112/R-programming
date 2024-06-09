@@ -1,0 +1,6 @@
+a<- c(1,2,3)
+b<- c(2,6,7)
+c<- c(3,9,6)
+matrix<- cbind(a,b,c)
+print("The Matrix is:")
+print(matrix)
